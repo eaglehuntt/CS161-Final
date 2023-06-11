@@ -1,0 +1,4 @@
+{
+    "registerUser" : "https://api.spacetraders.io/v2/register",
+    "factions" : "https://api.spacetraders.io/v2/factions"
+}

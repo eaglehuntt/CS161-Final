@@ -1,0 +1,22 @@
+{
+  "name": "spacetraders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaglehuntt/CS161-Final.git"
+  },
+  "author": "Eagle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eaglehuntt/CS161-Final/issues"
+  },
+  "homepage": "https://github.com/eaglehuntt/CS161-Final#readme",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
+}
