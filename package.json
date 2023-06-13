@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/eaglehuntt/CS161-Final#readme",
   "dependencies": {
-    "clipboardy": "^3.0.0"
+    "clipboardy": "^2.3.0"
   }
 }
